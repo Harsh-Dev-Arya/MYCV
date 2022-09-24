@@ -1,0 +1,109 @@
+body {
+    margin: auto;
+}
+.top_container {
+    background-color: #313C4E;
+    color: white;
+}
+.my_dp {
+    border: solid;
+    border-width: 5px;
+    border-color: #1d9696;
+    border-radius: 50%;
+    position: absolute;
+    top: 51px;
+    right: 150px;
+    margin: 20px 0 0 0;
+    width: 14%;
+}
+.top_container_h1{
+    margin: auto;
+    padding: 20px 0 0 40px;
+}
+.top_container_intro {
+    font-size: large;
+}
+.intro {
+    line-height: 2;
+    padding: 0 0 0 40px;
+    text-align: justify;
+    width: 70%;
+}
+.Contact {
+    background-color: #222B34;
+    padding: 20px 20px 20px 40px;
+}
+.Contact_info {
+    text-align: center;
+    display: inline;
+    padding: 0px 80px 0px 0px;
+}
+.mail {
+    color: white;
+    text-decoration: none;
+}
+.Testimonial {
+    margin: auto;
+    padding: 20px 0 0 40px;
+}
+.task {
+    font-size: 20px;
+}
+.bullet_point {
+    width: 750px;
+}
+.Testimonial h1 {
+    color: #66BFBF;
+    text-decoration: underline;
+}
+.Testimonial i {
+    color: #1d9696;
+}
+.Skills {
+    width: 600px;
+    position: absolute;
+    top: 350px;
+    right: 50px;
+}
+.Skills_name {
+    border-radius: 10%;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px 10px 10px 0;
+    font-size: 25px;
+    color: white;
+    background-color: gray;
+}
+.Qualification h1 {
+    margin: auto;
+    color: #66BFBF;
+    text-decoration: underline;
+}
+.Qualification i{
+    color: #1d9696;
+}
+.Qualification_bullet {
+    display: inline-block;
+}
+.Qualification{
+    margin: auto;
+    padding: 20px 0 0 40px;
+}
+h2 {
+    color: black;
+    font-weight: 900;
+}
+h3 {
+    color: black;
+    font-weight: 600;
+}
+.projects h1{
+    padding-top: 19px;
+}
+.certificates a {
+    text-decoration: none;
+    color: black;
+}
+.certificates a:hover {
+    color: #1d9696;
+}
